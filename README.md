@@ -53,6 +53,13 @@ CREATE TABLE sales (
 - Utilized SQL queries to perform data evaluation and generate insights.
 - Analyzed total revenue by date, total quantity sold by item type, average transaction amount by transaction type, and more.
 
+- ##Question
+- 1) What is the total revenue by date
+  2) What is the totalquantity sold by item type
+  3) Average transaction amount by transaction type
+  4) What is the Top Selling item(s)?
+  5) What is the average transaction amount by transaction type?
+
 #### Insights
 - Top-selling item identified as Cold Coffee or Iced Coffee, suggesting potential for expanding flavor variety.
 - Majority of transactions are cash purchases, indicating an opportunity to promote online orders to enhance customer experience and reduce wait time.
